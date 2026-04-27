@@ -95,10 +95,8 @@ sudhanshu = {
 
 ---
 
-
 *"Data tells a story. I make sure it's heard."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sudhanshugks&color=00d4ff&style=flat-square)
 
 </div>
-.
